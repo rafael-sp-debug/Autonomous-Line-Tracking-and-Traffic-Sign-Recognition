@@ -68,6 +68,9 @@ The package was validated on physical hardware through rigorous scenario testing
 *   Network latency between the Jetson Nano and the inference laptop can delay reaction times, especially when multiple robots are operating simultaneously.
 
 ***
-**Authors:** Rafael Soto Padilla (A01799296).
+##  Authors
+* **Leyberth Jaaziel Castillo Guerra** 
+* **Rafael Soto Padilla (A01799296)**
+
 **References:** Manchester Robotics. (2025). Final Challenge.
 ***
